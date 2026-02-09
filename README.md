@@ -24,7 +24,7 @@ An AI-powered system for automating international trade compliance checks. It ha
 
 1. Navigate to the project folder:
    ```bash
-   cd Global_Trade_Automation_Agent
+   cd Global_Trade_Compliance_Automation
    ```
 
 2. Install dependencies:
@@ -54,7 +54,7 @@ chainlit run app.py
 ## Folder Structure
 
 ```
-Global_Trade_Automation_Agent/
+Global_Trade_Compliance_Automation/
 ├── app.py                 # Chainlit entry point
 ├── config.py              # Config wrapper
 ├── agent_defs/
